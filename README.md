@@ -61,7 +61,7 @@ Desarrolladora de software con experiencia en frontend, backend y testing, enfoc
 
 ### Sistema de reservaciones de transporte
 
-[![Preview](./reservas.png)](https://reservations.uniqueprivatetransportation.com/booking)
+[![Preview](./reservas.PNG)](https://reservations.uniqueprivatetransportation.com/booking)
 
 Rediseño del sistema, optimizando la experiencia de usuario (UX/UI) y mejorando la lógica del frontend para incrementar rendimiento y mantenibilidad.
 
