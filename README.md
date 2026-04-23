@@ -6,7 +6,7 @@ Desarrolladora de software con experiencia en frontend, backend y testing, enfoc
 
 ## 🚀 Sobre mí
 
-- 💻 +2 años de experiencia en desarrollo web y móvil  
+- 💻 Experiencia en desarrollo web y móvil  
 - ⚙️ Experiencia en frontend, backend y QA testing  
 - 🧪 Enfoque en calidad de software (Cypress, k6)  
 - 📱  Desarrollo de aplicaciones web y mobile  
