@@ -1,4 +1,4 @@
-# 👩‍💻 Karla Díaz | Software Developer
+# 👩‍💻 Karla Díaz | Desarroladora de Software
 
 Desarrolladora de software con experiencia en frontend, backend y testing, enfocada en construir aplicaciones eficientes, escalables y con buena experiencia de usuario.
 
